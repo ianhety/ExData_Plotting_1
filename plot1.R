@@ -1,1 +1,0 @@
-# First plot of project
